@@ -1,4 +1,4 @@
-WoG Graphics Expansion. 
+WoG Graphics Expansion. 2.17
 
 Author: Grossmaster
 
