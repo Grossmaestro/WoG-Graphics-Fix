@@ -1,4 +1,4 @@
-WoG Graphics Expansion. 2.17
+The remake of the WoG graphics. This mod also adds fixes for SoD sprites and adds 400+ new decorative objects (available on RMG).
 
 Author: Grossmaster
 
