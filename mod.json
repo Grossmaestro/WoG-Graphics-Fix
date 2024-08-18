@@ -14,8 +14,8 @@
 		},
 		"short": {
 			"Cn_Simp": "",
-			"en_US": "WoG Graphics Expansion. \r\n\r\nAuthor: Grossmaster (aka Grossmaestro, aka Valmont)\r\n\r\nAlso used materials made by:\r\nValery\r\nHotA Crew\r\nKuririn\r\nFred79\r\nMod Design Team\r\nDocent Picolan\r\nTotkotoriy\r\nAstaroth\r\nFcst1\r\nGrayface",
-			"ru_RU": "Графическое дополнение для WoG. \r\n\r\n- Автор мода Grossmaster (aka Grossmaestro, aka Valmont)\r\n\r\nТакже были использованы материалы, за авторстом которых стоят:\r\nValery\r\nHotA Crew\r\nKuririn\r\nFred79\r\nMod Design Team\r\nDocent Picolan\r\nTotkotoriy\r\nAstaroth\r\nFcst1\r\nGrayface\r\nRaistlin",
+			"en_US": "WoG Graphics Expansion. \r\n\r\nAuthor: Grossmaster (aka Grossmaestro, aka Valmont)\r\n\r\nAlso used materials made by:\r\nValery\r\nHotA Crew\r\nKuririn\r\nFred79\r\nMod Design Team\r\nDocent Picolan\r\nAstaroth\r\nFcst1\r\nGrayface",
+			"ru_RU": "Графическое дополнение для WoG. \r\n\r\n- Автор мода Grossmaster (aka Grossmaestro, aka Valmont)\r\n\r\nТакже были использованы материалы, за авторстом которых стоят:\r\nValery\r\nHotA Crew\r\nKuririn\r\nFred79\r\nMod Design Team\r\nDocent Picolan\r\nAstaroth\r\nFcst1\r\nGrayface\r\nRaistlin",
 			"ua_UA": ""
 		}
 	},
@@ -25,7 +25,7 @@
 		"file": "Icon.ico",
 		"index": 0
 	},
-	"mod_version": "2.18.0",
+	"mod_version": "2.19.0",
 	"priority": 0,
 	"compatibility": {
 		"class": "all",
