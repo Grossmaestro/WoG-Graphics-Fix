@@ -14,5 +14,3 @@ Fcst1
 Raistlin
 Grayface
 Dalion
-
-Homepage: http://wforum.heroes35.net/showthread.php?tid=5352
