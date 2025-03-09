@@ -3,14 +3,16 @@ The remake of the WoG graphics. This mod also adds fixes for SoD sprites and add
 Author: Grossmaster
 
 Also used materials made by:
-Valery
+Yogdush
+Koven1Nordsiard
 HotA Crew
+Valery
 Kuririn
 Fred79
 Mod Design Team
 Docent Picolan
 Astaroth
 Fcst1
-Raistlin
 Grayface
+Raistlin
 Dalion

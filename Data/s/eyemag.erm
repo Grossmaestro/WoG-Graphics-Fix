@@ -1,0 +1,13 @@
+ZVSE2
+!?FU(gem_CreateERMHook);
+!!SN:Ex1/1/4886427/(gem_AtHutOfMagiEyeIteration);
+
+!?FU(gem_AtHutOfMagiEyeIteration);
+!!UN:Cx1/(STRUCT_HOOK_CONTEXT_EBP)/4/?(ebp:y) C(ebp)/12/4/?(hutOfMagiMapItem:y); [get hut of magi mapItem]
+!!UN:Cx1/(STRUCT_HOOK_CONTEXT_EAX)/4/?(eyeOfMagiMapItem:y);                      [get eye of magi mapItem]
+!!UN:C(hutOfMagiMapItem)/34/2/?(hutSubtype:y);                                   [get hut of magi mapItem s/t]
+!!UN:C(eyeOfMagiMapItem)/34/2/?(eyeSubtype:y);                                   [get eye of magi mapItem s/t]
+!!if&(hutSubtype:y)<>(eyeSubtype:y);                                             [if not equal]
+  !!SN:X?y99/0;
+  !!UN:Cx1/(STRUCT_HOOK_CONTEXT_RET)/4/4886584;                                  [jump out]
+!!en;

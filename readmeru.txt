@@ -3,14 +3,16 @@
 - Автор мода Grossmaster
 
 Также были использованы материалы, за авторстом которых стоят:
-Valery
+Yogdush
+Koven1Nordsiard
 HotA Crew
+Valery
 Kuririn
 Fred79
 Mod Design Team
 Docent Picolan
 Astaroth
 Fcst1
-Raistlin
 Grayface
+Raistlin
 Dalion
