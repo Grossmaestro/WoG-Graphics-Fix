@@ -41,9 +41,6 @@ wicebr13.def	161
 wfarkw.def	147
 wfruis03.def	147
 wfruis04.def	147
-zdec03.def	134
-mntice01.def	134	Icy wall shouldn't generate in random maps
-mntice02.def	134
 wfpilr00.def	147
 wfpilr08.def	147
 avlautr0.def	135	I dont like these autumn oak trees
