@@ -17,7 +17,6 @@ avlswmp4.def	155
 avlswmp5.def	155
 avlswmp6.def	155
 avlswmp7.def	155
-rkwf1.def	134	Rough waterfall
 avllk1u0.def	126	Changed to new underground lakes set
 avllk2u0.def	126
 avllk3u0.def	126
@@ -156,3 +155,9 @@ RAVNlv09.def	187
 RAVNlv10.def	187
 RAVNlv11.def	187
 mntice07.def	134
+wfcher01.def	199
+wfcher02.def	199
+wfcher03.def	199
+wfcher04.def	199
+wfcher05.def	199
+wfcher06.def	199
