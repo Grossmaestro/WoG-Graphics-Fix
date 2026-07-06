@@ -4,7 +4,7 @@ Author: Grossmaster
 
 A short description of the mod's content:
 - Artistic remake and fixes of WoG's graphics (objects on the adventure map, interface, some modified unit sprites, etc.)
-- Addition of over 500 new objects to the game, available in random map generation and in the map editor
+- Addition of over 800 new objects to the game, available in random map generation and in the map editor
 - Fixes for the graphics of the original game, some assets are ported from HotA
 - Return of static object flags, trees and lakes on the adventure map
 - Correction and improvement of decorative object generation on random maps. Green trees will not appear on Snow, rocky mountains will not be able to appear on Dirt, and other fixes that contribute to the most artistically high-quality decor generation
